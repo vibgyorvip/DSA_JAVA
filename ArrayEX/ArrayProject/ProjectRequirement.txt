@@ -1,0 +1,20 @@
+##################################################
+Find number of days above average temprature
+##################################################
+
+
+Sample input:-
+
+
+
+How Many days temp?
+>2
+
+Day 1's high temp
+>1
+Day 2's high temp
+>2
+
+OUTPUT:-
+Average=1.5
+1 day's above average
