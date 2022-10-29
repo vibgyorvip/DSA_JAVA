@@ -1,3 +1,4 @@
+//incorrect bcoz for i=0 not compairing with each value of j
 package ArrayProject;
 
 import java.util.Arrays;
